@@ -1,0 +1,175 @@
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\bin\Debug\Id3.Net.dll
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\bin\Debug\Id3.Net.xml
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\App.g.cs
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\MainWindow.baml
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CopyComplete
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+C:\Users\Bashynskyi\source\repos\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\bin\Debug\Id3.Net.dll
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\bin\Debug\Id3.Net.xml
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\App.g.cs
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\MainWindow.baml
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CopyComplete
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\WpfApp_Tags (1)\WpfApp_Tags\WpfApp_Tags\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.dll
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.xml
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\App.g.cs
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\MainWindow.baml
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CopyComplete
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+C:\Users\Bashynskyi\Downloads\project_Music 1\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.dll
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.xml
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\App.g.cs
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\MainWindow.baml
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CopyComplete
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+C:\Lissa\IT\C#\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.dll
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.xml
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.SuggestedBindingRedirects.cache
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\App.g.cs
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\MainWindow.baml
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CopyComplete
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+C:\Users\MaksymBashyn_hrvyhwz\Downloads\project_Music_2\project_Music_2\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.dll
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.xml
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\App.g.cs
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\MainWindow.baml
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CopyComplete
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.dll
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.pdb
+C:\Lissa\IT\C#\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.xml
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.dll
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.dll
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.xml
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.pdb
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.xml
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\App.g.cs
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\MainWindow.baml
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_T.91FCB7D1.Up2Date
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+D:\C#2\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe.config
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.exe
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\WpfApp_Tags.pdb
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.dll
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.dll
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.dll
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\Id3.Net.xml
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\JetBrains.Annotations.xml
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.pdb
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\bin\Debug\TagLibSharp.xml
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.AssemblyReference.cache
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\MainWindow.g.cs
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\App.g.cs
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.cache
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags_MarkupCompile.lref
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\MainWindow.baml
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.g.resources
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.Properties.Resources.resources
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.GenerateResource.cache
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.csproj.CoreCompileInputs.cache
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_T.91FCB7D1.Up2Date
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.exe
+C:\project_Musiс3 (2)\project_Musiс3\project_Music\WpfApp_Tags\obj\Debug\WpfApp_Tags.pdb
