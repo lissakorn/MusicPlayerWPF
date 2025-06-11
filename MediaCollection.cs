@@ -377,7 +377,7 @@ namespace WpfApp_Tags
                 {
                     var file = TagLib.File.Create(musicItem.FilePath);
                     var pictures = file.Tag.Pictures;
-                    // Теги
+ 
                     musicItem.Title = !string.IsNullOrWhiteSpace(file.Tag.Title) ? file.Tag.Title : unknownTag;
 
                     musicItem.Artist = (file.Tag.Performers != null && file.Tag.Performers.Length > 0 && !string.IsNullOrWhiteSpace(file.Tag.Performers[0]))
@@ -390,7 +390,6 @@ namespace WpfApp_Tags
                         ? file.Tag.Genres[0]
                         : unknownTag;
 
-                    // Тривалість
                     musicItem.Time = file.Properties?.Duration ?? TimeSpan.Zero;
 
                     if (file.Tag.Pictures.Length > 0)
@@ -407,7 +406,7 @@ namespace WpfApp_Tags
                                     image.StreamSource = stream;
                                     image.CacheOption = BitmapCacheOption.OnLoad;
                                     image.EndInit();
-                                    image.Freeze(); // Для потокобезпечності
+                                    image.Freeze(); 
                                     musicItem.AlbumArt = image;
                                 }
                             }
@@ -426,7 +425,6 @@ namespace WpfApp_Tags
                 catch (Exception ex)
                 {
                     Debug.WriteLine($"Error processing file: {ex.Message}");
-                    // Встановлюємо значення за замовчуванням
                     musicItem.Title = unknownTag;
                     musicItem.Artist = unknownTag;
                     musicItem.Album = unknownTag;

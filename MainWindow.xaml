@@ -159,7 +159,7 @@
 
 
                 <StackPanel Grid.Column="0" Orientation="Horizontal">
-                    <!-- Кнопки Play та Pause -->
+                  
                     <StackPanel Orientation="Horizontal">
                         <Button x:Name="PlayListNearMusic"  Command="{Binding DataContext.PlayListItemCommand, RelativeSource={RelativeSource AncestorType=ListBox}}"
                         CommandParameter="{Binding}" 
@@ -260,11 +260,11 @@
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="Auto" MinWidth="250" MaxWidth="500"/>
-            <!-- Ліва колонка (тепер з MinWidth) -->
+          
             <ColumnDefinition Width="5"/>
             
             <ColumnDefinition Width="*"/>
-            <!-- Права колонка -->
+          
         </Grid.ColumnDefinitions>
 
         <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Background="LightGray"/>
@@ -331,23 +331,21 @@
             <Grid MinWidth="400" MaxWidth="800" HorizontalAlignment="Stretch">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto"/>
-                    <!-- Лівий час -->
+                 
                     <ColumnDefinition Width="*"/>
-                    <!-- Прогрес-бар -->
+                   
                     <ColumnDefinition Width="Auto"/>
-                    <!-- Правий час -->
+                   
                     <ColumnDefinition Width="Auto"/>
-                    <!-- Кнопки -->
+                   
                 </Grid.ColumnDefinitions>
 
-                <!-- Лівий час -->
                 <TextBlock Grid.Column="0"
                    Text="{Binding CurrentPositionFormatted}"
                    VerticalAlignment="Center"
                    Margin="0,0,8,0"
                    MinWidth="40"/>
 
-                <!-- Прогрес-бар -->
                 <ProgressBar Grid.Column="1"
                      Minimum="0"
                      Maximum="{Binding ActiveMusicItem.Time}"
@@ -356,14 +354,12 @@
                      VerticalAlignment="Center"
                      Margin="8,0,8,0"/>
 
-                <!-- Правий час -->
                 <TextBlock Grid.Column="2"
                    Text="{Binding ActiveMusicItem.Time, StringFormat={}{0:mm\\:ss}}"
                    VerticalAlignment="Center"
                    Margin="0,0,8,0"
                    MinWidth="40"/>
 
-                <!-- Кнопки управління -->
                 <StackPanel Grid.Column="3"
                     Orientation="Horizontal"
                     HorizontalAlignment="Left"
